@@ -1,0 +1,21 @@
+/*Reset body*/
+
+body {
+    font-family: Helvetica;
+}
+
+
+/*Navbar*/
+
+.navbar {
+    background-color: #660066;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+
+.navbar-brand {
+    font-family: "Oswald";
+    font-size: 40px;
+    font-weight: 700;
+}
