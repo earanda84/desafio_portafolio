@@ -56,3 +56,12 @@ body {
 #Hero-Section h1:last-child {
     font-weight: 900;
 }
+
+
+/*Sección sobre Mi*/
+
+#Sobre-Mi {
+    color: #373A3C;
+    font-family: "Open Sans";
+    line-height: 3;
+}
