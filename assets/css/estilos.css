@@ -19,3 +19,40 @@ body {
     font-size: 40px;
     font-weight: 700;
 }
+
+
+/*Hero Section*/
+
+#Hero-Section {
+    background-image: url(/assets/img/bg_hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+#Hero-Section div {
+    position: absolute;
+    bottom: 205px;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.hero-line {
+    width: 345px;
+}
+
+#Hero-Section h1 {
+    font-family: "Oswald";
+    font-size: 72px;
+}
+
+#Hero-Section h1:first-child {
+    font-weight: 200;
+}
+
+#Hero-Section h1:last-child {
+    font-weight: 900;
+}
