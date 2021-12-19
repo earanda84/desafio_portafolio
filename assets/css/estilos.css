@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: auto !important;
+}
+
+
 /*Reset body*/
 
 body {
@@ -64,4 +69,66 @@ body {
     color: #373A3C;
     font-family: "Open Sans";
     line-height: 3;
+}
+
+
+/*#Sobre-Mi h4 {
+    font-weight: bold;
+}*/
+
+
+/*Mi experiencia*/
+
+#Experiencia div h1 {
+    font-family: 'Oswald';
+    font-size: 52px;
+}
+
+#Experiencia i {
+    color: #660066;
+}
+
+#Experiencia div:last-child article h4:first-child {
+    font-family: 'Oswald';
+}
+
+#Experiencia div:last-child article h4:last-child {
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+
+
+/*Mis últimos trabajos*/
+
+#Trabajos {
+    background-color: #660066;
+    font-family: "Oswald";
+}
+
+#Trabajos h1 {
+    font-size: 52px;
+}
+
+
+/*Contacto y Formulario*/
+
+#Contacto h1 {
+    font-family: "Oswald";
+    font-size: 52px;
+}
+
+
+/*Footer*/
+
+#Footer {
+    background-color: #660066;
+}
+
+#Footer h1 {
+    font-family: "Oswald";
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
 }
