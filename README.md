@@ -10,3 +10,9 @@ Desafío guíado desarrollo portafolio personal, utilizando Html:5, Css, Bootstr
 3.-typeform (Bootstrap)
 4.-modal (Bootstrap)
 5.-Desarrollo scrollTop con Javascript (jquery)
+
+
+# En Desarrollo 
+
+1.-Falta terminar de redactar notas personales
+2.-Falta vincular con git page y obtener "url"
